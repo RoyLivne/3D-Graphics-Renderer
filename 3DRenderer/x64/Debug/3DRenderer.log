@@ -1,0 +1,47 @@
+﻿  main.c
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(62,87): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(62,115): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(63,88): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(63,116): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(64,90): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(64,118): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(51,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(52,48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(116,30): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(120,30): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(124,28): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(128,28): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(132,75): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(137,75): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(258,30): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(259,30): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(262,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(263,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(309,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(350,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(350,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(351,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(351,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(352,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(352,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(360,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(360,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(361,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(361,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(362,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(362,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(363,13): warning C4133: 'function': incompatible types - from 'upng_t *' to 'uint32_t *'
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(370,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(370,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(371,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(371,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(372,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(372,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(379,40): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(379,66): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(380,40): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(380,66): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(381,40): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(381,66): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\3DRenderer\main.c(403,16): warning C4026: function declared with formal parameter list
+  3DRenderer.vcxproj -> C:\Courses\3d Graphics\3DRenderer_1703\3DRenderer\x64\Debug\3DRenderer.exe
